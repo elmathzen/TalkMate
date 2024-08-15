@@ -12,7 +12,7 @@ conversation_history
 conversation_rag
 conversation_qa_document
 interface/functions/RAG_System/*
-interface/functions/RAG_System/temp-file
+!interface/functions/RAG_System/rag.py
 
 # Temp Audio
 interface/functions/speech_to_text/temp_audio

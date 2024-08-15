@@ -1,0 +1,22 @@
+# Cache files
+__pycache__
+
+# Environment files
+.env
+
+# Language selected file
+lang.txt
+
+# Personal Folders of the user
+conversation_history
+conversation_rag
+conversation_qa_document
+interface/functions/RAG_System/*
+interface/functions/RAG_System/temp-file
+
+# Temp Audio
+interface/functions/speech_to_text/temp_audio
+
+# Temp vector database
+temp_chroma
+

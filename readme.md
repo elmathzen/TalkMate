@@ -67,3 +67,8 @@ If this doesn't work and doesn't recognize the voices you have installed on the 
 with **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\SPEECH\Voices\Tokens**.
 
 5. Save the modified file and double-click it to import the changes to the registry.
+
+
+## Author
+
+- [@nixiz0](https://github.com/nixiz0)

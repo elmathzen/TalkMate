@@ -1,4 +1,4 @@
-# TalkMate-AI
+# TalkMate-AI (for Windows)
 
 Interface allowing you to speak directly with an LLM, record your conversations, speak with an assistant orally, summarize your files and talk about your own data via an integrated RAG system.
 
@@ -52,7 +52,7 @@ List of Models that i advise you to install :
 - mistral:latest (basic LLM)
 
 
-## Configuration Synthetic Voices (on Windows)
+## Configuration Synthetic Voices
 
 If you want to have more synthetic voices available, on Windows you have to go to the narrator settings and you can download the voices you want.
 

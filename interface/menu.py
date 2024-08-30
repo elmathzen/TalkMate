@@ -19,7 +19,6 @@ st.set_page_config(
 # Create three columns with different proportions
 col1, col2, col3 = st.columns([2,50,2])
 
-
 lang = define_lang()
 select_microphone(lang)
 voice_index = NarratorVoice()

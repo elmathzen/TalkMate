@@ -17,6 +17,8 @@ You can download here CUDA 11.8 : *https://developer.nvidia.com/cuda-11-8-0-down
 
 - If the installation of pytorch doesn't work, go on : *Install the correct version of pytorch with python & the right version of CUDA for your GPU*
 
+- If you have the error with pytorch like ('.dll) missing on the lib, to result this you need to install VStudioCode C++ *visualstudio.microsoft.com/fr/vs/features/cplusplus/*
+
 **=> Install librairies :**
 ```pip install -r requirements.txt```
 
